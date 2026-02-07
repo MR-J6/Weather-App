@@ -26,9 +26,10 @@ State Management: Provider
 API: WeatherAPI.com
 
 Screenshots:
-<img width="1920" height="1080" alt="لقطة شاشة 2026-02-07 131816" src="https://github.com/user-attachments/assets/ed4e41a1-ba31-4c02-8cc9-6a957dfca9df" />
-<img width="1920" height="1080" alt="لقطة شاشة 2026-02-07 134631" src="https://github.com/user-attachments/assets/d1ab1f9e-2d8c-46bb-9091-be9acf5e3853" />
-
+<p align="center">
+<img width="45%" alt="لقطة شاشة 2026-02-07 131816" src="https://github.com/user-attachments/assets/ed4e41a1-ba31-4c02-8cc9-6a957dfca9df" />
+<img width="45%" alt="لقطة شاشة 2026-02-07 134631" src="https://github.com/user-attachments/assets/d1ab1f9e-2d8c-46bb-9091-be9acf5e3853" />
+</p>
 
 
 
