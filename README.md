@@ -28,5 +28,7 @@ API: WeatherAPI.com
 Screenshots:
 
 <p align="center">
-  <img src="assets/logo.png" width="350" title="Weather App">
+  <img src="assets/screenshot1.png" width="350" title="Weather App">
+  <img src="assets/screenshot2.png" width="350" title="Weather App">
 </p>
+
