@@ -24,3 +24,9 @@ Language: Dart
 State Management: Provider
 
 API: WeatherAPI.com
+
+Screenshots:
+
+<p align="center">
+  <img src="assets/logo.png" width="350" title="Weather App">
+</p>
